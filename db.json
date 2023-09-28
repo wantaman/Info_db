@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Thida",
+      "Age": 25,
+      "Gender": "Male",
+      "Skills": "Web Developer",
+      "Major": "Engineering"
+    },
+    {
+      "id": 3,
+      "Name": "Ronsy",
+      "Age": 25,
+      "Gender": "Female",
+      "Skills": "Software Engineer",
+      "Major": "Engineering"
+    },
+    {
+      "Name": "natalia",
+      "Age": "21",
+      "Gender": "Male",
+      "Skills": "Tester",
+      "Major": "IT",
+      "id": 6
+    },
+    {
+      "Name": "pich",
+      "Age": "23",
+      "Gender": "Female",
+      "Skills": "Administration",
+      "Major": "Accountant",
+      "id": 7
+    }
+  ]
+}
